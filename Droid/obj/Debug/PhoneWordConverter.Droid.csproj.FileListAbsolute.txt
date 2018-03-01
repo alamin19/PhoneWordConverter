@@ -1,0 +1,63 @@
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/PhoneWordConverter.Droid.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/PhoneWordConverter.Droid.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/com.alamin.PhoneWordConverter.apk
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/com.alamin.PhoneWordConverter-Signed.apk
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/FormsViewGroup.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/PhoneWordConverter.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/PhoneWordConverter.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/PhoneWordConverter.Droid.csprojResolveAssemblyReference.cache
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/PhoneWordConverter.Droid.csproj.CoreCompileInputs.cache
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/PhoneWordConverter.Droid.dll
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/PhoneWordConverter.Droid.pdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/android/bin/com.alamin.PhoneWordConverter.apk
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/layout/tabbar.xml
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/layout/toolbar.xml
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/values/styles.xml
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/drawable/icon.png
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/R.cs.flag
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/obj/Debug/uploadflags.txt
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/Amin/Desktop/Xamarin Projects/PhoneWordConverter/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+bin/Debug/FormsViewGroup.dll.mdb
+bin/Debug/Xamarin.Forms.Core.dll.mdb
+bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+bin/Debug/Mono.Android.pdb
+obj/Debug/linksrc/FormsViewGroup.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Core.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Xaml.dll.mdb
+obj/Debug/linksrc/PhoneWordConverter.Droid.pdb
+obj/Debug/linksrc/Mono.Android.pdb
+obj/Debug/linksrc/PhoneWordConverter.pdb
